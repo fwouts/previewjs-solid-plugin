@@ -1,0 +1,5 @@
+.DS_Store
+.turbo
+node_modules/
+README.md
+demo.gif
