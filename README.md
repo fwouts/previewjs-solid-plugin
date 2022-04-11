@@ -15,6 +15,4 @@ This includes:
 
 ## Try it
 
-This will be released in [Preview.js](https://previewjs.com) v1.6.0 on Wed 6 April 2022.
-
-It may only be available a few days later on IntelliJ/WebStorm due to JetBrain approval delays.
+This plugin was released as part of [Preview.js](https://previewjs.com) since v1.6.0. You don't need to install anything!
