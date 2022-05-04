@@ -1,3 +1,5 @@
+## [This repository has now been merged into the Preview.js monorepo](https://github.com/fwouts/previewjs)
+
 # SolidJS plugin for Preview.js
 
 This is a plugin for [Preview.js](https://previewjs.com) that adds support for previewing SolidJS components.
